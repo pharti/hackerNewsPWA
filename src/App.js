@@ -1,7 +1,7 @@
 import "./App.css";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { Container, Row, Col, Card } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 function App() {
   const [news, setNews] = useState([]);
   useEffect(() => {
@@ -25,11 +25,11 @@ function App() {
       {news &&
         news.map((item, index) => {
           return (
-            <Container className="p-3">
+            <Container className="p-3" fluid="md">
               <Row>
                 <Col sm={8}>
                   <h4>{item.title}</h4>
-                  <a href={item.url}>{item.url}</a>
+                  {/* <a href={item.url}>{item.url}</a> */}
                 </Col>
               </Row>
             </Container>

@@ -1,6 +1,5 @@
 {
-  "homepage": "http://pharti.github.io/demoPWA",
-  "name": "trippy",
+  "name": "HackerNews",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

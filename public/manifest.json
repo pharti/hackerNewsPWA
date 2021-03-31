@@ -1,15 +1,29 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Hacker News",
+  "name": "Hacker News Application",
   "icons": [
     {
-      "src": "/images/download.png",
+      "src": "/images/image.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1024x1024",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/image192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/image512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
   "display": "standalone",
+  "orientation":"portrait",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
