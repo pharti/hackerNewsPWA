@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/demoPWA/static/css/main.9e40d62a.chunk.css",
+    "main.js": "/demoPWA/static/js/main.dd6429b4.chunk.js",
+    "main.js.map": "/demoPWA/static/js/main.dd6429b4.chunk.js.map",
+    "runtime-main.js": "/demoPWA/static/js/runtime-main.9c162ef7.js",
+    "runtime-main.js.map": "/demoPWA/static/js/runtime-main.9c162ef7.js.map",
+    "static/js/2.6bff513e.chunk.js": "/demoPWA/static/js/2.6bff513e.chunk.js",
+    "static/js/2.6bff513e.chunk.js.map": "/demoPWA/static/js/2.6bff513e.chunk.js.map",
+    "static/js/3.b2e08f3a.chunk.js": "/demoPWA/static/js/3.b2e08f3a.chunk.js",
+    "static/js/3.b2e08f3a.chunk.js.map": "/demoPWA/static/js/3.b2e08f3a.chunk.js.map",
+    "index.html": "/demoPWA/index.html",
+    "static/css/main.9e40d62a.chunk.css.map": "/demoPWA/static/css/main.9e40d62a.chunk.css.map",
+    "static/js/2.6bff513e.chunk.js.LICENSE.txt": "/demoPWA/static/js/2.6bff513e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c162ef7.js",
+    "static/js/2.6bff513e.chunk.js",
+    "static/css/main.9e40d62a.chunk.css",
+    "static/js/main.dd6429b4.chunk.js"
+  ]
+}
